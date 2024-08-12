@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cc37e916041da1af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/Redis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#查看集群状态",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Hex.md",
+                "file": "Java/Redis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Hex.md",
+                "file": "Java/Redis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Hex.md"
+                "file": "Java/Redis.md"
               }
             }
           }
@@ -146,10 +160,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "4f277ec1e190113f",
+  "active": "cc37e916041da1af",
   "lastOpenFiles": [
-    "Java/Cipher + BouncyCastle.md",
     "Java/Hex.md",
+    "Java/Redis.md",
+    "Java/Cipher + BouncyCastle.md",
     "Math/常用极限.md",
     "Math",
     "README.md",
