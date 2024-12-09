@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "13a14260b260e4e2",
+        "id": "1bc41d62eff69ffb",
         "type": "tabs",
         "children": [
           {
-            "id": "3fe8327bfe2285e1",
+            "id": "061b26f22a48ce91",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -165,7 +165,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "39b9cdebc871ae60",
+  "active": "c87d61faab11c5ba",
   "lastOpenFiles": [
     "SQL/MYSQL.md",
     "SQL/MySQL-ON DUPLICATE KEY UPDATE.md",
