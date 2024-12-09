@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "845db5779fb25e3e",
+        "id": "13a14260b260e4e2",
         "type": "tabs",
         "children": [
           {
-            "id": "83b0c7793619ae22",
+            "id": "3fe8327bfe2285e1",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -89,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Hex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +98,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Hex 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -130,23 +129,31 @@
             }
           },
           {
+            "id": "4382eeb600d73074",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
             "id": "39b9cdebc871ae60",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Java/Hex.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Hex 的大纲"
+              "title": "大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 349.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,12 +165,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "83b0c7793619ae22",
+  "active": "39b9cdebc871ae60",
   "lastOpenFiles": [
+    "SQL/MYSQL.md",
     "SQL/MySQL-ON DUPLICATE KEY UPDATE.md",
     "CS/浮点数的二进制表示.md",
     "CS",
-    "SQL/MYSQL.md",
     "SQL/MySQL控制TIMESTAMP类型的输出.md",
     "Middleware/Apache.md",
     "Welcome.md",
