@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1bc41d62eff69ffb",
+        "id": "b66fd3226c391de4",
         "type": "tabs",
         "children": [
           {
-            "id": "061b26f22a48ce91",
+            "id": "2d3af429a51f9c06",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Middleware/Apache.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "Apache"
             }
           }
         ]
@@ -36,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -143,9 +148,14 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Middleware/Apache.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "Apache 的大纲"
             }
           }
         ],
@@ -165,7 +175,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c87d61faab11c5ba",
+  "active": "2d3af429a51f9c06",
   "lastOpenFiles": [
     "SQL/MYSQL.md",
     "SQL/MySQL-ON DUPLICATE KEY UPDATE.md",
