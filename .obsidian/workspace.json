@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "Welcome"
             }
+          },
+          {
+            "id": "0e6d6cccd0728c24",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.10.3"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -164,13 +176,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Welcome 的大纲"
+              "title": "大纲"
             }
           }
         ],
@@ -191,7 +202,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3747e68d2f3224f8",
+  "active": "0e6d6cccd0728c24",
   "lastOpenFiles": [
     "未命名.md",
     "Welcome.md",
