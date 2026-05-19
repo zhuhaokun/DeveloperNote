@@ -11,10 +11,14 @@
             "id": "2b3852b408037685",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "SQL/MySQL-ON DUPLICATE KEY UPDATE.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "MySQL-ON DUPLICATE KEY UPDATE"
             }
           }
         ]
@@ -145,12 +149,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "SQL/MySQL-ON DUPLICATE KEY UPDATE.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "MySQL-ON DUPLICATE KEY UPDATE 的大纲"
             }
           }
         ],
@@ -173,23 +178,23 @@
   },
   "active": "2b3852b408037685",
   "lastOpenFiles": [
+    "SQL/MYSQL.md",
+    "Middleware/Apache.md",
+    "Math/三角函数.md",
+    "Math/常用极限.md",
+    "Java/Redis.md",
+    "Java/Hex.md",
+    "Java/Cipher + BouncyCastle.md",
+    "CS/浮点数的二进制表示.md",
     "Welcome.md",
     "未命名.md",
     "README.md",
-    "Java/Redis.md",
-    "Java/Cipher + BouncyCastle.md",
-    "Java/Hex.md",
     "SQL/MySQL-ON DUPLICATE KEY UPDATE.md",
-    "SQL/MYSQL.md",
-    "Middleware/Apache.md",
-    "CS/浮点数的二进制表示.md",
     "CS",
     "SQL/MySQL控制TIMESTAMP类型的输出.md",
     "create a link.md",
     "SQL",
     "Middleware",
-    "Math/三角函数.md",
-    "Math/常用极限.md",
     "Math",
     "Java"
   ]
